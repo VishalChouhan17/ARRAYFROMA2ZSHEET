@@ -74,7 +74,7 @@ int tg=10;
 
 
 // }
-//optimal by using three pointers
+//optimal solution by using three pointers
 //time comp(n^3)
 vector<vector<int>> vec;
 sort(arr,arr+n);
